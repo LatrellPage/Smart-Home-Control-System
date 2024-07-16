@@ -1,6 +1,11 @@
 # Smart-Home-Control-System
 
-### Demo video coming soon of project working live in my apartment :) ###
+
+
+## Demo video coming soon of project working live in my apartment :) ##
+
+
+
 
 SmartHomeHub is a smart home control system using Raspberry Pi as the cntral hub, integrating IoT(Internet of Things) devices like motion sensors, LED lights, smart bulbs, an Echo Dot, and a ring camera. The system uses JavaFX for the GUI (Graphical User Interface) for control and monitoring.
 
